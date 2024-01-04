@@ -1,1 +1,3 @@
 # odin-recipes
+
+In this excersise of the Odin Project, I take the knowlege of what I learned from the html sections I learned so far to create 4 webpages using html only. One homepage, index.html, and three recipe pages of our choosing. I chose North End Style Pizza, Never Soggy Chicken Parmesan, and Balsamic Bruschetta. Using the boilerplate, headings, anchors, images, ordered and un-ordered lists, I created these simple recipe pages just using html. I will be editing these pages later on once I learn more about CSS styling. 
