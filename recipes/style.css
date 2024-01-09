@@ -3,6 +3,15 @@ html {
     background-color: beige;
 }
 
+.nav {
+    font-size: 18px;
+    list-style-type: none;
+}
+
+.nav ul {
+    padding: 0;
+}
+
 .index {
     text-align: center;
     text-decoration: none;
